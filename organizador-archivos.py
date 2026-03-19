@@ -4,6 +4,7 @@
 # **Contenido:** Script en Python para clasificar archivos (.txt, .jpg)
 # desde una carpeta de origen a carpetas organizadas por tipo.
 
+
 import os
 import shutil
 
